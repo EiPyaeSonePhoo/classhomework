@@ -1,0 +1,44 @@
+﻿}h1{
+	color:green;
+	font-size:250%;
+}
+li{
+	list-style:none;
+	width:33%;
+	float:left;
+}
+div{
+	width:640px;
+	margin-right:auto;
+	margin-left:auto;
+}
+h1,h2,footer,li{
+	text-align:center;
+}
+.price{
+	text-align:right;
+}
+li a{
+	color:#000;
+	text-decoration:none;
+}
+h1,h2,footer,li{
+	text-align:center;
+	font-family: 'Alata', sans-serif;
+	font-family: 'Pacifico', cursive;
+}
+
+header{
+	border-top:solid 10px #c2e08f;
+}
+section{
+box-shadow:0 0 10px 0 #ccc;
+margin-top:40px;
+padding-top:10px;
+padding-right:20px;
+padding-bottom:10px;
+padding-left:20px;
+}
+th img{
+border-radius:6px;
+}
